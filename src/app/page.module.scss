@@ -1,0 +1,19 @@
+.main {
+  min-height: 100dvh;
+  max-width: 600px;
+  // background-color: #b2dfee;
+  background-color: #4aaa9c;
+  margin: auto;
+  padding: 1em;
+
+  .form-label {
+    color: white;
+    font-weight: bold;
+  }
+
+  .minus-icon {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 33px;
+  }
+}
